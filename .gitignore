@@ -1,0 +1,14 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+/bootstrap/compiled.php
+composer.phar
+npm-debug.log
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+node_modules
+public/vendor/* 
+workbench/*
